@@ -1,0 +1,6 @@
+[submodule "udacity-oauth"]
+	path = udacity-oauth
+	url = https://github.com/noardsl/udacity-oauth
+[submodule "udacity-restful-apis"]
+	path = udacity-restful-apis
+	url = https://github.com/noardsl/udacity-restful-apis
